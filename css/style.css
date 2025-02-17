@@ -6,7 +6,7 @@
 
 header{
     background-image: url(../img/pattern.png);
-    background-color: rgb(0, 204, 255);
+    background-color:#4ea1ff;
     height: 150px;
 }
 
@@ -16,15 +16,22 @@ header{
 }
 
 h1{
-    width: 70%;
     font-size: 50px;
 }
 
-.gray{
+.sub{
    color: gray; 
 }
 
 #span-blue{
     color: lightblue;
+}
+
+img{
+    padding-top: 30px;
+}
+
+.img-sub{
+    font-size: 10px;
 }
 
