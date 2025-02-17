@@ -6,7 +6,7 @@
 
 header{
     background-image: url(../img/pattern.png);
-    background-color:#4ea1ff;
+    background-color:rgb(78, 161, 255);
     height: 150px;
 }
 
@@ -27,11 +27,35 @@ h1{
     color: lightblue;
 }
 
-img{
-    padding-top: 30px;
-}
-
 .img-sub{
     font-size: 10px;
 }
 
+table {
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+}
+
+th{
+    color: white;
+    background-color: #20ace4;
+}
+
+.odd-col{
+    background-color:#b0e6f3;
+}
+
+.first-col{
+    width: 25%;
+}
+
+.last-col{
+    width: 50%;
+}
+
+.highlighted{
+    background-color: yellow;
+}
