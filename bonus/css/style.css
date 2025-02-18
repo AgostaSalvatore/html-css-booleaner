@@ -5,7 +5,8 @@
 }
 
 .pad{
-    margin-left: 5px;
+    margin: 10px;
+    padding: 10px;
 }
 
 header{
@@ -78,20 +79,19 @@ th{
     background-color: yellow;
 }
 
-#first-photo-bot{
-    background-image: url(../img/monitor.jpg);
+.img-footer{
     height: 230px;
     width: 230px;
     color: white;
     background-repeat: no-repeat;
 }
 
+#first-photo-bot{
+    background-image: url(../img/monitor.jpg);
+}
+
 #second-photo-bot{
     background-image: url(../img/graph.jpg);
-    height: 230px;
-    width: 230px;
-    color: white;
-    background-repeat: no-repeat;
 }
 
 .container{
